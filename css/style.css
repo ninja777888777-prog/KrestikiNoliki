@@ -1,0 +1,98 @@
+
+.cube1{
+        display: block;
+    width: 200px;
+    height: 200px;
+    border: 1px black solid;
+    border-radius: 4px;
+    color: black;
+    background-color: white;
+    padding: 16px;
+}
+.cube2{
+            display: block;
+    width: 200px;
+    height: 200px;
+    border: 1px black solid;
+    border-radius: 4px;
+    color: black;
+    background-color: white;
+    padding: 16px;
+}
+.cube3{
+            display: block;
+    width: 200px;
+    height: 200px;
+    border: 1px black solid;
+    border-radius: 4px;
+    color: black;
+    background-color: white;
+    padding: 16px;
+}
+.cube4{
+           display: block;
+    width: 200px;
+    height: 200px;
+    border: 1px black solid;
+    border-radius: 4px;
+    color: black;
+    background-color: white;
+    padding: 16px; 
+}
+.cube5{
+            display: block;
+    width: 200px;
+    height: 200px;
+    border: 1px black solid;
+    border-radius: 4px;
+    color: black;
+    background-color: white;
+    padding: 16px;
+}
+.cube6{
+            display: block;
+    width: 200px;
+    height: 200px;
+    border: 1px black solid;
+    border-radius: 4px;
+    color: black;
+    background-color: white;
+    padding: 16px;
+}
+.cube7{
+            display: block;
+    width: 200px;
+    height: 200px;
+    border: 1px black solid;
+    border-radius: 4px;
+    color: black;
+    background-color: white;
+    padding: 16px;
+}
+.cube8{
+            display: block;
+    width: 200px;
+    height: 200px;
+    border: 1px black solid;
+    border-radius: 4px;
+    color: black;
+    background-color: white;
+    padding: 16px;
+}
+.cube9{
+    display: block;
+    width: 200px;
+    height: 200px;
+    border: 1px black solid;
+    border-radius: 4px;
+    color: black;
+    background-color: white;
+    padding: 16px;
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 800px; 
+    gap: 10px; 
+}
